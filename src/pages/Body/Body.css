@@ -1,0 +1,53 @@
+
+body {
+  text-align: center;
+  background-color: black;
+}
+
+
+h1 {
+  color: #f9004d;
+}
+
+h2 {
+  color: #f9004d;
+}
+
+.btn {
+    background-color: #f9004d;
+    color: #fff;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 5px 20px;
+    border-radius: 20px;
+    transition: transform .3s;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+}
+
+.bodyTres{
+  background: url('./traf-sL7w1eUfHJQ-unsplash.jpg');
+  padding: 10px;
+} 
+
+.certificado {
+  padding: 25px;
+  margin: 25px;
+}
+
+
+.mostrar:hover {
+  width: 800px;
+  height: 500px;
+}
+
+.imgPrimera{
+  height: 400px;
+  width: 800px;
+}
+
+
+

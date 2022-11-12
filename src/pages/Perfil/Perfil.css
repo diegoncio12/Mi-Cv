@@ -1,0 +1,84 @@
+* {
+    color: aliceblue;
+    
+}
+
+.menu {
+    font-size: 1.5rem;
+    padding: 0px;
+    text-align: center;
+
+ }
+
+.btnDos {
+    background-color: #f9004d;
+    width: 40px;
+    height: 18px;
+    border-radius: 20px;
+    padding: 0px;
+ }
+
+
+.perfil {
+    width: 15%;
+    height: 15%;
+    position: fixed;
+    transition: .4s all;
+    z-index: 1;
+    font-size: 0px;
+    
+}
+
+
+
+.menu a{
+    text-decoration: none;
+    list-style: none;
+    font-size: 0px;
+    padding: 0px;
+    
+} 
+
+.ImgLogo {
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+    width: 0px;
+    height: 0px;
+    padding:15px 0;
+}
+
+.perfil ul{
+    padding: 0px;
+}
+
+.perfil li {
+    transition: .3s all;
+}
+
+.perfil:hover{
+    width: 25%;
+    height: 90%;
+    background-color: rgba(64, 94, 112, 0.50);
+    font-size: 18px;
+}
+
+
+.perfil:hover a{
+    font-size:20px;
+}
+
+ul li a:hover {
+    color: #f9004d;
+    transition: .4s;
+}
+
+.perfil:hover img {
+    width: 180px;
+    height: 180px;
+}
+
+.perfil:hover button {
+    height: 0px;
+    width: 0px;
+}

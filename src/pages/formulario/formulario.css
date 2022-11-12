@@ -1,0 +1,38 @@
+.contactame {
+    box-sizing: border-box;
+    background:url('./david-rangel-4m7gmLNr3M0-unsplash.jpg');
+    padding: 50px;
+    background-repeat: no-repeat;
+}
+
+.formulario {
+    width: 500px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    box-shadow: 0 0 3px;
+}
+
+.formulario_head{
+    text-align: center;
+    margin-top: 0;
+    color:rgb(240, 240, 240); ;
+}
+
+.input, .label , .submit {
+    display: block;
+    width: 90%;
+    border: 1px solid rgba(rgb(184, 38, 38));
+    font-size: 15px;
+}
+
+.input {
+    padding: 10px;
+    margin-bottom: 40px;
+    color: #f9004d;
+}
+
+.submit {
+    width: 80px;
+}
