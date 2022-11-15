@@ -20,15 +20,22 @@ Aficionado desarrollador web full stack
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/rip.yego/)
 
 
-## Screenshots
-info
+## Capturas Asociadas 
+
+## info
 <img src="https://github.com/diegoncio12/Mi-Cv/blob/main/src/assets/captura%201.png">
-sobre mi 
+
+## Certificado
 <img src="https://github.com/diegoncio12/Mi-Cv/blob/main/src/assets/captura%202.png">
 
-## Documentation
+## Habilidades
+<img src="https://github.com/diegoncio12/Mi-Cv/blob/main/src/assets/captura%203.png">
 
-[Documentation](https://linktodocumentation)
+## Contactame
+<img src"https://github.com/diegoncio12/Mi-Cv/blob/main/src/assets/captura%204.png">
+
+## PLANO GENERAL
+<img src="https://github.com/diegoncio12/Mi-Cv/blob/main/src/assets/captura%205.png">
 
 
 ## Installation
