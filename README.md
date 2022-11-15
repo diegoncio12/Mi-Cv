@@ -32,7 +32,7 @@ Aficionado desarrollador web full stack
 <img src="https://github.com/diegoncio12/Mi-Cv/blob/main/src/assets/captura%203.png">
 
 ## Contactame
-<img src"https://github.com/diegoncio12/Mi-Cv/blob/main/src/assets/captura%204.png">
+<img src="https://github.com/diegoncio12/Mi-Cv/blob/main/src/assets/captura%204.png">
 
 ## PLANO GENERAL
 <img src="https://github.com/diegoncio12/Mi-Cv/blob/main/src/assets/captura%205.png">
