@@ -21,9 +21,10 @@ Aficionado desarrollador web full stack
 
 
 ## Screenshots
-
+info
 <img src="https://github.com/diegoncio12/Mi-Cv/blob/main/src/assets/captura%201.png">
-
+sobre mi 
+<img src="https://github.com/diegoncio12/Mi-Cv/blob/main/src/assets/captura%202.png">
 
 ## Documentation
 
