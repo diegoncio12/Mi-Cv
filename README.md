@@ -22,7 +22,7 @@ Aficionado desarrollador web full stack
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here/)
+<img src="https://github.com/diegoncio12/Mi-Cv/blob/main/src/assets/captura%201.png">
 
 
 ## Documentation
