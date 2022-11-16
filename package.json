@@ -1,12 +1,9 @@
 {
   "name": "my-cv.react",
   "private": true,
-  "homepage": "http://diegoncio12.github.io/Mi-Cv",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
@@ -32,5 +29,17 @@
     "@vitejs/plugin-react": "^2.2.0",
     "sass": "^1.56.1",
     "vite": "^3.2.0"
+  },
+  "description": "Adjunto aqui mi cv para poder visualizarlo y puedan conocerme mas a fondo",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoncio12/Mi-Cv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoncio12/Mi-Cv/issues"
   }
 }
